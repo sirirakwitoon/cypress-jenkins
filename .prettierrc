@@ -1,0 +1,9 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "uesTabs": true,
+    "tabWidth": 2,
+    "bracketSpecing": true,
+    "arrowParens": "avoid",
+    "trailingComma": "es5"
+}
